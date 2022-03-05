@@ -1,0 +1,10 @@
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\bin\Debug\Parking Servis.exe.config
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\bin\Debug\Parking Servis.exe
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\bin\Debug\Parking Servis.pdb
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\obj\Debug\Parking Servis.csprojResolveAssemblyReference.cache
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\obj\Debug\Parking_Servis.main_Parking.resources
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\obj\Debug\Parking_Servis.Properties.Resources.resources
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\obj\Debug\Parking Servis.csproj.GenerateResource.Cache
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\obj\Debug\Parking Servis.exe
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\obj\Debug\Parking Servis.pdb
+c:\users\milenko\documents\visual studio 2012\Projects\Parking Servis\Parking Servis\obj\Debug\Parking_Servis.Rezervacija.resources
